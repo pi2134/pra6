@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-function LoginStatus() {
+function Loginstatus() {
 const [isLoggedIn, setIsLoggedIn] = useState(false);
 
 const handleLogin = () => {
@@ -82,4 +82,4 @@ Login
 );
 }
 
-export default LoginStatus;
+export default Loginstatus;
