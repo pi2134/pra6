@@ -82,4 +82,8 @@ Login
 );
 }
 
+<<<<<<< HEAD
 export default Loginstatus;
+=======
+export default Loginstatus;
+>>>>>>> df8463fb7ce11f64a7905f71e204b1fdf5e9b4d0
